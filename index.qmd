@@ -1,0 +1,25 @@
+---
+title: "Marshall Washick"
+---
+---
+title: "Marshall Washick"
+---
+
+## About
+
+I'm a Continuous Quality Improvement Manager at DC Fire and Emergency Medical Services and Co-Chair of the Measure Analysis and Research Committee for the National EMS Quality Alliance (NEMSQA).
+
+I work at the intersection of emergency medical services, systems design, and improvement science - challenging how we measure, analyze, and improve prehospital care.
+
+My background includes an MS in Emergency Health Services with concentrations in Epidemiology and Preventative Medicine from UMBC. I publish *The EMS QI Desk* newsletter exploring systems thinking, measurement infrastructure, and operational improvement in emergency services.
+
+## Current Work
+
+- Building measurement frameworks for EMS quality improvement
+- Analyzing systematic patterns in pain management and patient care
+- Developing analytical approaches that challenge physician-dominated epistemology in EMS oversight
+- Consulting with agencies on quality improvement infrastructure
+
+## Connect
+
+Find me on [LinkedIn](https://linkedin.com/in/marshallwashick) or [contact me](contact.qmd) about consulting, speaking, or collaboration opportunities.

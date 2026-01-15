@@ -1,0 +1,37 @@
+---
+title: "Consulting"
+---
+
+I help EMS agencies and healthcare organizations design measurement infrastructure, analyze operational performance, and implement improvement science methodology.
+
+## Services
+
+**Operational Performance Analysis**  
+Deep-dive analysis of response times, hospital turnaround times, unit hour utilization, and other operational metrics using statistical process control and systems thinking approaches. Move beyond simple averages to understand actual system behavior and identify improvement opportunities.
+
+**Quality Improvement Infrastructure**  
+Design and implementation of measurement systems, data analysis workflows, and improvement frameworks. Build the analytical capability your agency needs to systematically improve care delivery and operational efficiency.
+
+**Planned Experimentation & Equipment Evaluation**  
+Rigorous testing methodologies to evaluate new devices, protocols, or operational changes before large-scale investment. Use factorial design and improvement science to determine what actually works in your system.
+
+**Speaking & Workshops**  
+Presentations on EMS systems analysis, improvement science methodology, measurement infrastructure, and challenging conventional approaches to quality oversight. Available for conferences, agency training, and professional development sessions.
+
+## Approach
+
+My work combines practitioner credibility (active paramedic, MS in Emergency Health Services) with sophisticated analytical methods drawn from improvement science, systems theory, and biostatistics. I challenge physician-dominated epistemology in EMS oversight and help agencies build analytical capability that respects operational reality.
+
+Projects are scoped to your agency's needs and capacity. Whether you need a one-time analysis, ongoing analytical support, or help building internal capability - we can structure an engagement that works.
+
+## Get Started
+
+Contact me to discuss your agency's challenges and how analytical approaches can help.
+
+**Email:** marshall.washick@gmail.com  
+**LinkedIn:** [Marshall Washick](https://www.linkedin.com/in/marshallwashick)
+
+---
+
+*Recent work includes analysis of pain management effectiveness using NEMSIS data, Hospital Liaison Officer implementation studies, and operational performance improvement for DC Fire and EMS.*
+

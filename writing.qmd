@@ -1,0 +1,31 @@
+---
+title: "Writing"
+---
+
+I publish *The EMS QI Desk* newsletter on LinkedIn, exploring systems thinking, measurement infrastructure, and operational improvement in emergency medical services.
+
+## Selected Articles
+
+### [Mobile Broken Society Management](https://www.linkedin.com/pulse/essay-emergency-medical-services-mobile-broken-society-washick-2uhze/?trackingId=6%2BnBbUtHREeeDv3zum2M5g%3D%3D)
+
+Examines the gap between what EMS was designed for (catastrophic emergencies, trauma) and what it actually does (responding to social vulnerability and systemic failures). Argues that EMS has become the "safety net to the safety net" - managing marginalized populations that communities are ill-equipped to serve, while the industry continues optimizing for rare high-acuity cases that represent less than 10% of call volume.
+
+
+*2,809 impressions | November 22, 2025*
+
+### [What Jack Stout Knew about Response times (That We Still Get Wrong)](https://www.linkedin.com/pulse/what-jack-stout-knew-response-times-we-still-get-wrong-washick-pkfte/?trackingId=zvvrYDmDRPicejwkvI1C1Q%3D%3D)
+
+First in a series on improving EMS operational performance. Examines why average response times mask systematic inequities in service delivery, using statistical distributions to expose how "good averages" can hide neighborhoods with practically no service. Challenges the industry's reliance on means over distributions and advocates for quantile-based measurement.
+
+*Part 1: Improving EMS Operational Performance | July 15, 2024*
+
+### [Breath of Fresh Air: Planned Experimentation Breathes New Life into Bag-Valve Mask Devices](https://www.linkedin.com/pulse/breath-fresh-air-planned-experimentation-breathes-new-washick/?trackingId=vK0letmpQ86p5vSuiVZGWg%3D%3D)
+Demonstrates how agencies can rigorously evaluate new equipment using factorial design experimentation - testing BVM devices in under 45 minutes to determine actual performance improvements. Challenges EMS's obsession with "latest and greatest" gadgets by showing how to scientifically assess whether new devices deliver measurable improvements before purchase.
+
+*March 1, 2023*
+
+---
+
+## Newsletter
+
+Subscribe to *The EMS QI Desk* on [LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7006776158570631168) for regular analysis of EMS systems, quality improvement methodology, and operational challenges.

@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Marshall Washick"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Writing"
+        href: writing.qmd
+      - text: "Consulting"
+        href: consulting.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - icon: linkedin
+        href: https://linkedin.com/in/marshallwashick
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+
+
