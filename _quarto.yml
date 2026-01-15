@@ -8,6 +8,8 @@ website:
     left:
       - text: "Home"
         href: index.qmd
+      - text: "Book"
+        href: book.qmd
       - text: "Writing"
         href: writing.qmd
       - text: "Consulting"

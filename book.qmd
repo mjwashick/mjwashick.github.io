@@ -1,0 +1,51 @@
+---
+title: "Introduction to Prehospital Analytics"
+---
+
+## Foundations for Understanding Prehospital Systems
+
+*Currently in development*
+
+The first comprehensive guide to analytical methods specifically designed for Emergency Medical Services. This book addresses the gap between operational metrics and meaningful analysis, providing frameworks for understanding prehospital data, improvement science methodology, and translating analytics into action.
+
+### Planned Coverage
+
+**Part I: Foundations**
+- The prehospital domain as an analytical ecosystem
+- Data sources, systems, and standards (NEMSIS, CAD, ePCR)
+- Record linkage methods (deterministic and probabilistic)
+- Data quality, bias, and representativeness
+
+**Part II: Analytic Building Blocks**
+- Descriptive statistics and summarization
+- Variation and uncertainty (Statistical Process Control)
+- Visualization and communication
+
+**Part III: Applied Methods**
+- Designing improvement studies
+- Regression and predictive modeling
+- Advanced topics and AI applications
+
+**Part IV: Governance and Action**
+- Ethics and data stewardship
+- Translating analytics into operational decisions
+- Real-world case studies
+
+### Approach
+
+Built entirely in R and Quarto for full reproducibility. Every analysis includes working code, mathematical foundations, and practical applications to EMS operational challenges. Challenges the industry's reliance on simple averages and dashboards by introducing rigorous analytical methods from improvement science, biostatistics, and systems theory.
+
+### Status
+
+Early chapters complete and under review. Full publication anticipated 2026.
+
+### Who This Is For
+
+- EMS Operations Managers and Chiefs
+- Medical Directors and QI Practitioners  
+- Data Analysts working in emergency services
+- Researchers studying prehospital care systems
+
+---
+
+Interested in early access, speaking engagements on these topics, or applying these methods to your agency? Contact marshall.washick@gmail.com
