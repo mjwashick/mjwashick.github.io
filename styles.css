@@ -1,1 +1,40 @@
 /* css styles */
+
+body {
+    font-size: 1.1rem;
+    line-height: 1.7;
+}
+
+h1, h2, h3 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+
+h1 {
+  font-size: 2.5rem;
+  border-bottom: 3px solid #2c5aa0;
+  padding-bottom: 0.5rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+  color: #2c5aa0;
+}
+
+/* Better link styling */
+a {
+  color: #2c5aa0;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-bottom 0.2s;
+}
+
+a:hover {
+  border-bottom: 1px solid #2c5aa0;
+}
+
+/* Card-like sections */
+.quarto-title {
+  margin-bottom: 2rem;
+}
