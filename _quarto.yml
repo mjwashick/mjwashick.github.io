@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Marshall Washick"
+  google-analytics: "G-5XWSFZR6ZS"
   navbar:
     left:
       - text: "Home"
