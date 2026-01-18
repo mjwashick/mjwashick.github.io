@@ -4,7 +4,7 @@ title: "Introduction to Prehospital Analytics"
 
 ## Foundations for Understanding Prehospital Systems
 
-*Currently in development, anticipated publish date: 2026*
+*Currently in development*
 
 The first comprehensive guide to analytical methods specifically designed for Emergency Medical Services. This book addresses the gap between operational metrics and meaningful analysis, providing frameworks for understanding prehospital data, improvement science methodology, and translating analytics into action.
 

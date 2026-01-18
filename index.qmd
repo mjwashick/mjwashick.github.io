@@ -1,25 +1,36 @@
 ---
 title: "Marshall Washick"
 ---
----
-title: "Marshall Washick"
----
+
+::: {.hero}
+# Building Measurement Infrastructure for Emergency Medical Services
+
+I help EMS agencies move beyond dashboards and averages to understand what their data actually reveals about system performance, clinical outcomes, and operational improvement.
+
+[View Consulting Services](consulting.qmd){.btn .btn-primary} [Read My Work](writing.qmd){.btn .btn-outline}
+:::
 
 ## About
 
-I'm a Continuous Quality Improvement Manager at DC Fire and Emergency Medical Services and Co-Chair of the Measure Analysis and Research Committee for the National EMS Quality Alliance (NEMSQA).
+I'm Marshall Washick - Continuous Quality Improvement Manager at DC Fire and Emergency Medical Services, Co-Chair of the Measure Analysis and Research Committee for NEMSQA, and author of *Introduction to Prehospital Analytics*.
 
-I work at the intersection of emergency medical services, systems design, and improvement science - challenging how we measure, analyze, and improve prehospital care.
+My work challenges how the EMS industry measures performance. Most agencies rely on simple averages and generic dashboards that mask systematic problems. I build analytical frameworks that expose what's actually happening in your system - using statistical process control, improvement science, and methods that respect the complexity of prehospital care.
 
-My background includes an MS in Emergency Health Services with concentrations in Epidemiology and Preventative Medicine from UMBC. I publish *The EMS QI Desk* newsletter exploring systems thinking, measurement infrastructure, and operational improvement in emergency services.
+I hold an MS in Emergency Health Services (Epidemiology/Preventative Medicine, UMBC) and work as a practicing paramedic. I publish *The EMS QI Desk* newsletter exploring systems thinking and measurement infrastructure in emergency services.
 
-## Current Work
+## Book
 
-- Building measurement frameworks for EMS quality improvement
-- Analyzing systematic patterns in pain management and patient care
-- Developing analytical approaches that challenge physician-dominated epistemology in EMS oversight
-- Consulting with agencies on quality improvement infrastructure
+**[Introduction to Prehospital Analytics](book.qmd)** *(in development)*
+
+The first comprehensive guide to analytical methods for EMS systems - covering data linkage, statistical process control, improvement study design, and translating analytics into operational action. Built with R and Quarto for full reproducibility.
+
+## Current Focus
+
+- Analyzing systematic patterns in pain management using national NEMSIS datasets
+- Building quality improvement infrastructure that challenges physician-dominated EMS epistemology  
+- Consulting with agencies on measurement frameworks that drive actual improvement
+- Developing analytical approaches for operational performance beyond response time averages
 
 ## Connect
 
-Find me on [LinkedIn](https://linkedin.com/in/marshallwashick) or [contact me](contact.qmd) about consulting, speaking, or collaboration opportunities.
+Find me on [LinkedIn](https://www.linkedin.com/in/marshallwashick) or [contact me](contact.qmd) about consulting, speaking, or collaboration.
