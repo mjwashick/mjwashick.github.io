@@ -38,3 +38,60 @@ a:hover {
 .quarto-title {
   margin-bottom: 2rem;
 }
+
+/* Hero section */
+.hero {
+  background: linear-gradient(135deg, #2c5aa0 0%, #1e3a6b 100%);
+  color: white;
+  padding: 4rem 2rem;
+  margin: -2rem -2rem 3rem -2rem;
+  border-radius: 0;
+}
+
+.hero h1 {
+  color: white;
+  border: none;
+  font-size: 2.8rem;
+  margin-bottom: 1.5rem;
+  line-height: 1.2;
+}
+
+.hero p {
+  font-size: 1.3rem;
+  margin-bottom: 2rem;
+  max-width: 800px;
+  line-height: 1.6;
+}
+
+.hero .btn {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 4px;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+
+.hero .btn-primary {
+  background: white;
+  color: #2c5aa0;
+  text-decoration: none;
+}
+
+.hero .btn-primary:hover {
+  background: #f0f0f0;
+  transform: translateY(-2px);
+}
+
+.hero .btn-outline {
+  background: transparent;
+  color: white;
+  border: 2px solid white;
+  text-decoration: none;
+}
+
+.hero .btn-outline:hover {
+  background: rgba(255,255,255,0.1);
+  transform: translateY(-2px);
+}
